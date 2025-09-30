@@ -10,7 +10,9 @@ I'm a UX Designer and frontend developer who believes good code should be access
 ## 🧰 My toolbox
 
 **Core:** HTML, CSS, JavaScript, Figma, Tailwind, NextJS
+
 **Workflow:** Git, VSCode 
+
 **Philosophy:** User-centered design, Responsive design, WCAG compliance
 
 ## 🌐 Where you can find me
