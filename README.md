@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Ardalan
+# Hi, I'm Ardalan
 
 I'm a UX Designer and frontend developer who believes good code should be accessible, semantic, and readable.
 
-## 💡 What drives me
+## What drives me
 
 - **Code as communication** — if it needs extensive comments, it probably needs refactoring
 - **Design with empathy** — accessibility isn't a feature, it's a foundation
 
-## 🧰 My toolbox
+## My toolbox
 
 **Core:** HTML, CSS, JavaScript, Figma, Tailwind, NextJS
 
